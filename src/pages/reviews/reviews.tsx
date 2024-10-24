@@ -1,7 +1,6 @@
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import { Container, Fade } from "@mui/material";
 import NavBar from "../../shared/navbar";
-import cakes from "../../constants/cakes";
 import reviews from "../../constants/reviews";
 
 const Reviews : React.FC =() => {

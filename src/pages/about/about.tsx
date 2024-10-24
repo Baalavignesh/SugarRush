@@ -1,7 +1,7 @@
 import React from "react";
 import { Fade } from "@mui/material";
 import NavBar from "../../shared/navbar";
-import { blueberry, butter, chocolate, redvelvet, truffle, vanilla } from "../../assets";
+import { blueberry, butter, chocolate, vanilla } from "../../assets";
 import { aboutUsContent } from "../../constants/aboutus";
 
 const About: React.FC = () => {

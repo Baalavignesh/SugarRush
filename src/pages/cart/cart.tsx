@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import { Container, Fade } from "@mui/material";
 import NavBar from "../../shared/navbar";
-import cakes from "../../constants/cakes";
 
 const Cart : React.FC =() => {
   useEffect(() => {
